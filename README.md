@@ -11,8 +11,8 @@ Full Stack Web Developer
 
 <a href="https://www.twitter.com/Webuilder_Krish" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/Webuilder_Krish?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a><a href="https://www.github.com/webuilderkrish" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/webuilderkrish?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+/></a><a href="https://www.github.com/ShubhamDigole" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/ShubhamDigole?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 
 ### Skills
